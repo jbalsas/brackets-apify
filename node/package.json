@@ -1,0 +1,11 @@
+{
+    "name": "brackets-apify",
+    "version": "0.0.1",
+    "dependencies" : {
+        "apify" : "0.2.2"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.8"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bracketsapify",
+  "title": "Brackets apify",
+  "description": "Generate documentation from Brackets",
+  "homepage": "https://github.com/jbalsas/brackets-apify",
+  "version": "0.0.1",
+  "author": "Chema Balsas <jbalsas@gmail.com> (https://github.com/jbalsas)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.31.0"
+  }
+}
